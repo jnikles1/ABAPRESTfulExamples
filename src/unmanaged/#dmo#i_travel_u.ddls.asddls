@@ -12,7 +12,7 @@
 @EndUserText.label: 'Travel view - CDS data model'
 
 @Search.searchable: true
-
+// adding a comment
 define root view /DMO/I_Travel_U
   as select from /dmo/travel as Travel -- the travel table is the data source for this view
 
