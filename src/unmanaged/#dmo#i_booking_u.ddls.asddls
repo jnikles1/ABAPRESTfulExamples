@@ -11,7 +11,7 @@
                 title: { type: #STANDARD, value: 'BookingID' }
   }
 }
-
+//adding a comment
 @Search.searchable: true
 
 define view /DMO/I_Booking_U
